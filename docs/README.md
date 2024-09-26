@@ -133,9 +133,10 @@ c (int): третья сторона треугольника
 ```
 
 ## История изменений
+- commit `cb6075022d0f4a97ddd9f847927254c9bbd873ac` ``` added project description and history of changes to docs/README.md``` - создан файл README.md с описанием функций и историей изменений репозитория
 - commit `bbd095b73c10e534009f09fe22bb2eef09b7b600` ```added function descriptions``` - добавленые описания функций
 - commit `52882f632853dec095ec007791fc53d803726502` ```added file triangle.py``` - добавлен файл "triangle.py"
 - commit `b121c66674615eeeb9081a9fda92eb82619dbaf8` ```added file rectangle.py``` - добавлен файл "rectangle.py"
 
-- commit `8ba9aeb3cea847b63a91ac378a2a6db758682460` ```L-03: Circle and square added``` - добавлены файлы "circle.py" и "square.py"
-
+- commit `d078c8d9ee6155f3cb0e577d28d337b791de28e2` ```L-03: Docs added```
+- commit `8ba9aeb3cea847b63a91ac378a2a6db758682460` ```L-03: Circle and square added```
